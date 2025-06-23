@@ -1,5 +1,5 @@
 # task1
-ask Summary: Data Cleaning & Preprocessing (Arabica Dataset)
+Task Summary: Data Cleaning & Preprocessing (Arabica Dataset)
 Loaded the dataset
 We loaded the Arabica CSV file in order to find out what type of data it contained.
 
